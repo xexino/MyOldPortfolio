@@ -1,0 +1,134 @@
+[
+    {
+        "slider": [
+            {
+                "id": 1,
+                "backgroundImage": "https://images.unsplash.com/photo-1480506132288-68f7705954bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=920&q=80",
+                "subTitle": "Full Stack Developer ",
+                "title": "Welcome in <br />My Portfolio",
+                "desc": "I love to code because it is a team effort"
+            }
+        ]
+    },
+    {
+        "brand": [
+            {
+                "id": 1,
+                "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_ESTC.png"
+            },
+            {
+                "id": 2,
+                "image": "https://major-prepa.com/wp-content/uploads/2018/12/major-prepa_logo_colors.png"
+            },
+            {
+                "id": 3,
+                "image": "https://fabskill.com/assets/img/bus_cover/cropped/63_1565191317.webp"
+            }
+        ]
+    },
+    {
+        "iconBox": [
+            {
+                "id": "1",
+                "icon": "icofont-labour",
+                "title": "profressional and dedicate team",
+                "excerpt": "Building websites with modern technology."
+            },
+            {
+                "id": "2",
+                "icon": "icofont-ruler-compass-alt",
+                "title": "unique design",
+                "excerpt": "Bring the beautifully for your websites. Just enjoy!."
+            },
+            {
+                "id": "3",
+                "icon": "icofont-credit-card",
+                "title": "affordable and flexiable",
+                "excerpt": "Price is what you pay. Value is what you get."
+            },
+            {
+                "id": "4",
+                "icon": "icofont-live-support",
+                "title": "24/7 support",
+                "excerpt": "Consulting solutions and make plan to renovation"
+            }
+        ]
+    },
+    {
+        "funfact": [
+            {
+                "id": 1,
+                "number": 40,
+                "title": "Partner <br /> worldwide"
+            },
+            {
+                "id": 2,
+                "number": 1,
+                "title": "employees and <br /> staffs"
+            },
+            {
+                "id": 3,
+                "number": 4,
+                "title": "project  <br /> completed "
+            }
+        ]
+    },
+    {
+        "testimonial": [
+            {
+                "id": 1,
+                "icon": "icofont-quote-right",
+                "name": "Ayman El hamoussi",
+                "designation": "Director at Chobham Manor",
+                "excerpt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            },
+            {
+                "id": 2,
+                "icon": "icofont-quote-right",
+                "name": "Xexino",
+                "designation": "Director at Spotify",
+                "excerpt": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+            }
+        ]
+    },
+    {
+        "pricing": [
+            {
+                "id": 1,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-paper-plane",
+                "title": "Personal",
+                "price": "<sup>$</sup>9.99<span>/ month</span>",
+                "pricingList": [
+                    "Custome Domains",
+                    "Sleep after 30 mins of <br /> activity"
+                ]
+            },
+            {
+                "id": 2,
+                "badgeType": "true",
+                "badge": "popular",
+                "icon": "icon-plane",
+                "title": "small team",
+                "price": "<sup>$</sup>49.99<span>/ month</span>",
+                "pricingList": [
+                    "never sleeps",
+                    "multiple workers for more <br /> powerful apps"
+                ]
+            },
+            {
+                "id": 3,
+                "badgeType": "false",
+                "badge": "popular",
+                "icon": "icon-rocket",
+                "title": "enterprise",
+                "price": "<sup>$</sup>99.99<span>/ month</span>",
+                "pricingList": [
+                    "dedicated",
+                    "simple horizontal <br /> scalability"
+                ]
+            }
+        ]
+    }
+]

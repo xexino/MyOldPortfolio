@@ -1,0 +1,39 @@
+[
+    {
+        "id": "Awards",
+        "title": "Awards Achieved",
+        "yearOne": "2020/2021",
+        "yearTwo": "2019/2020",
+        "awardItem": [
+            {
+                "id": 1,
+                "className": "text-primary",
+                "cate": "Dut",
+                "title": "Diplôme universitaire de technologie en génie electrique (electronique informatique industrielle)"
+            },
+            {
+                "id": 2,
+                "className": "text-danger",
+                "cate": "Full Stack Developer",
+                "title": "i got my certificate of a Full Stack Developer in thechnology Mern at GoMycode after 5 mounth of hard Coding 💣 "
+            },
+            {
+                "id": 3,
+                "className": "text-success",
+                "cate": "Ux-design",
+                "title": "I got my certificate in introduction to ux-design "
+            },
+            {
+                "id": 4,
+                "className": "text-white",
+                "cate": "Lycée Technique Errazi el-jadida",
+                "title": "baccalauréat science technique electrique"
+            }
+        ]
+    },
+    {
+        "id": "AboutContent",
+        "title": "<span>Hello !</span> I am Ayman, <br> Full stack Developer based <br> in Morroco.",
+        "excerpt": "See bits and pieces of his design work and prototyping on"
+    }
+]
